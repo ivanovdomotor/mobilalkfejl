@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">Web-developing-course</string>
+    <string name="email">Email-cím</string>
+    <string name="registration">Regisztráció</string>
+    <string name="password">Jelszó</string>
+    <string name="login">Bejelentkezés</string>
+    <string name="back">Vissza</string>
+    <string name="password_again">Jelszó ismét</string>
+    <string name="full_name">Teljes név</string>
+    <string name="anonim_login">Anonim Belépés</string>
+    <string name="google_login">Google Belépés</string>
+    <string name="course_name">Kurzus megnevezése</string>
+    <string name="definition">Leírás</string>
+    <string name="cash">Készpénzzel a helyszínen</string>
+    <string name="card">Kártyával most</string>
+    <string name="sign_in">Jelentkezem!</string>
+    <string name="date">Dátum</string>
+    <string name="price">Ár</string>
+    
+    <string-array name="shopping_item_names">
+        <item>HTML alapok</item>
+        <item>CSS ismeretek</item>
+        <item>Javascript 101</item>
+        <item>Javascript 102</item>
+        <item>PHP, Laravel</item>
+        <item>Szerverüzemeltetés haladóknak</item>
+        <item>Optikai kábelek és switchek - elmélet</item>
+        <item>Node.js és keretrendszerek</item>
+        <item>UI és UX design</item>
+        <item>Business trendek, logók, vállalatirányítás</item>
+    </string-array>
+    <string-array name="shopping_item_date">
+        <item>2023. 05. 23. 9.00–12.00</item>
+        <item>2023. 05. 24. 9.30–12.30</item>
+        <item>2023. 05. 27. 9.00–20.00</item>
+        <item>2023. 05. 31. 9.30–19.00</item>
+        <item>2023. 05. 25. 14.00–18.30</item>
+        <item>2023. 05. 28. 6.00–9.30</item>
+        <item>2023. 06. 01. 10.00–16.30</item>
+        <item>2023. 05. 25. 9.00–16.30</item>
+        <item>2023. 06. 25. 9.00–12.30</item>
+        <item>2023. 05. 20. 14.00–15.30</item>
+    </string-array>
+    <string-array name="shopping_item_info">
+        <item>Bevezetés a programozásba. Az adat és fájl fogalma. Operációs rendszerek felhasználó szintű ismeretei. A html megismerése. Statikus weboldalak létrehozása.</item>
+        <item>Design alapok, színelmélet. Hogyan tegyük statikus weboldalainkat szebbé, átláthatóbbá? Animációk készítése, bevett szokások. Bootstrap és w3.css használata, ikon- és fontkészletek megismerése.</item>
+        <item>Változók, függvények létrehozása, ciklusok bemutatása. Programok előzetes tervezése. A javascript elmélete, a modern böngészők megismerése. Dinamikus weboldalak létrehozása DOM elemekkel.</item>
+        <item>JQUERY bevezető. Osztályok, objektumorientált gondolkodásmód bemutatása. Bevett programozási gyakorlatok. Gyakran előforduló és hasznos könyvtárak az irodai életben.</item>
+        <item>Szerveroldali programozás elmélete, PHP használata, adatbázissal való kommunikáció (SQLite). Laravel keretrendszer, OOP.</item>
+        <item>IT-biztonság szerveroldalon. Jogosítás, hálózatok kiépítése és üzemeltetése. Szervereszközök hatékony és olcsó kiépítése. Modern technológiák.</item>
+        <item>Switchek patchelése, patchek switchelése. Az optikai kábelek kiépítésének részletes bemutatása, az építési naplótól az átadás-átvételi jegyzőkönyvig. Jogi alapok.</item>
+        <item>Node.js, NPM, Angular, React. Összetettebb weboldalak felépítése, routing, MySQL és Postgresql adatbázisok aktív használata.</item>
+        <item>A stílus az ember. Milyen feltételeknek kell megfelelni ahhoz, hogy a kívánt hatást érjük el weboldalunkkal? Milyen logika mentén haladjunk, hogy a felhasználó elégedett legyen, és vásároljon / visszatérjen?</item>
+        <item>Saját cég alapítása, piacelemzés, trendek, analitika. Kommunikációs gyakorlat. Élet főnökként, és élet beosztottként - hogyan tervezzük meg az életünket programozóként?</item>
+    </string-array>
+    <integer-array name="shopping_item_price">
+        <item>50000</item>
+        <item>50000</item>
+        <item>75000</item>
+        <item>80000</item>
+        <item>100000</item>
+        <item>120000</item>
+        <item>60000</item>
+        <item>100000</item>
+        <item>75000</item>
+        <item>50000</item>
+    </integer-array>
+    <bool name="payment_method">true</bool>
+</resources>
